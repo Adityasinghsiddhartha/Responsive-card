@@ -1,0 +1,46 @@
+body {
+    background-color: aqua;
+    background-size: 5%;
+}
+
+.maincontainer
+{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ width: 100vw;
+ height: 90vh;
+}
+
+.monkeylogin{
+ width: 330px;
+ height: 450px;
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+ background-color: white;
+ border-radius: 40px;
+}
+.animcon
+{
+ background-color: white;
+ margin-top:10px;
+ height: 220px;
+ width: 206px;
+ border-radius: 50%;
+ background-position: center;
+
+}
+.animcon img
+{
+ margin-top:110%;
+ height: 200px;
+ width: 200px;
+ border-radius: 20%;
+}
+.text {
+    text-align: center;
+    margin: 10%;
+}
+
+
